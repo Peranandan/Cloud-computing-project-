@@ -1,6 +1,6 @@
- Cloud-Based ML Model Deployment
+ Project: Cloud-Based ML Model Deployment
  
-Objective
+Objective:
 Train and deploy an ML model via AWS SageMaker, expose it through a REST API, and monitor performance using AWS CloudWatc 
 
 
